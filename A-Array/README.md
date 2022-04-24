@@ -555,21 +555,20 @@ Merge all elements of A and B by taking common element once.
 		3.3. Otherwise , copy A[i] and i++ and j++.
 ```
 
+![image](https://user-images.githubusercontent.com/81226536/164970760-e4328b4d-96b8-46e9-986d-68766781efb5.png) 
+
+![image](https://user-images.githubusercontent.com/81226536/164970844-4114654b-eb0e-482d-bbdc-dbc0dda500e0.png) 
+
+
 **Time Complexity** 
   
 O(m+n)= O(n+n)= O(n) 
 Time Complexity : `O(n)` 
 
-**Space Complexity** 
-  
-No extra space is used.  
-Time Complexity : `O(1)` 
 
 
-## OUTPUT : 
 
 
-![image](https://user-images.githubusercontent.com/81226536/163536470-3971f593-6a1a-4be1-9461-b7e4c3981457.png)
 
 
 
